@@ -27,3 +27,6 @@ A modular, signature-based Application Security Testing (AST) utility written in
 2. Install the required dependencies:
    ```bash
    pip install requests
+## 🛡️ Ethical Disclaimer
+
+This tool is developed strictly for educational, research, and authorized penetration testing evaluation purposes. Scanning target environments without explicit, prior written consent from the infrastructure asset owner is illegal and violates authorization policies. The developer assumes no liability for misuse or damage caused by this utility.
